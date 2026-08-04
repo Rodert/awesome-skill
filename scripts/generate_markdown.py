@@ -50,6 +50,40 @@ def render(source, groups, locale):
     return "\n".join(lines).rstrip() + "\n"
 
 
+def render_readme_catalog(source, groups):
+    lines = [
+        f"## Skills ({source.get('total', 0)} total)",
+        "",
+        f"> Last updated: **{date(source.get('last_updated', ''))}**. Browse the [interactive directory](https://rodert.github.io/awesome-skill/en/projects) for filtering and all languages.",
+        "",
+    ]
+    for key in sorted(groups):
+        lines += [f"### {CATEGORY_NAMES.get(key, key.title())}", ""]
+        skills = sorted(groups[key], key=lambda item: item.get("stars", 0), reverse=True)
+        for index, skill in enumerate(skills, 1):
+            description = " ".join(skill.get("description", "").split())
+            if len(description) > 220:
+                description = description[:217].rstrip() + "..."
+            line = f"{index}. **[{skill['name']}]({skill['url']})** - ⭐ {skill.get('stars', 0):,}"
+            if description:
+                line += f" - {description}"
+            lines.append(line)
+        lines.append("")
+    return "\n".join(lines).rstrip()
+
+
+def update_readme(catalog):
+    readme_path = ROOT / "README.md"
+    readme = readme_path.read_text(encoding="utf-8")
+    start = "<!-- SKILLS:START -->"
+    end = "<!-- SKILLS:END -->"
+    if start not in readme or end not in readme:
+        raise ValueError("README.md is missing Skill catalog markers")
+    before, remainder = readme.split(start, 1)
+    _, after = remainder.split(end, 1)
+    readme_path.write_text(f"{before}{start}\n{catalog}\n{end}{after}", encoding="utf-8")
+
+
 def main():
     source = json.loads((ROOT / "data/skills.json").read_text(encoding="utf-8"))
     groups = {}
@@ -59,8 +93,9 @@ def main():
         target = ROOT / "docs" / code / "projects.md"
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(render(source, groups, locale), encoding="utf-8")
+    update_readme(render_readme_catalog(source, groups))
     shutil.copyfile(ROOT / "data/skills.json", ROOT / "docs/data/skills.json")
-    print(f"Generated {len(LOCALES)} language directories")
+    print(f"Generated README catalog and {len(LOCALES)} language directories")
 
 
 if __name__ == "__main__":
