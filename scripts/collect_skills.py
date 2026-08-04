@@ -9,8 +9,13 @@ from pathlib import Path
 
 DATA_FILE = Path(__file__).parent.parent / "data" / "skills.json"
 QUERIES = ["SKILL.md", "agent skill", "claude skill", "codex skill"]
+
+
 def categorize(repo):
-    text = " ".join([repo.get("name", ""), repo.get("description", ""), " ".join(repo.get("topics", []))]).lower()
+    name = repo.get("name") or ""
+    description = repo.get("description") or ""
+    topics = " ".join(str(topic) for topic in (repo.get("topics") or []))
+    text = " ".join([name, description, topics]).lower()
     for category, words in {
         "coding": ("code", "coding", "programming", "developer", "software"),
         "research": ("research", "paper", "academic", "literature"),
