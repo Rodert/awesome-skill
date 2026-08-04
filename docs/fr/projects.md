@@ -58,7 +58,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 ### 5. [graphify](https://github.com/Graphify-Labs/graphify)
 
-⭐ **102,304** | 🔤 **Python** | 📅 **2026-08-04**
+⭐ **102,305** | 🔤 **Python** | 📅 **2026-08-04**
 
 Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
@@ -88,7 +88,7 @@ Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab
 
 ### 8. [agent-skills](https://github.com/addyosmani/agent-skills)
 
-⭐ **81,591** | 🔤 **JavaScript** | 📅 **2026-08-04**
+⭐ **81,592** | 🔤 **JavaScript** | 📅 **2026-08-04**
 
 Production-grade engineering skills for AI coding agents.
 
@@ -128,7 +128,7 @@ A curated list of awesome Claude Skills, resources, and tools for customizing Cl
 
 ### 12. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
-⭐ **71,710** | 🔤 **JavaScript** | 📅 **2026-08-04**
+⭐ **71,711** | 🔤 **JavaScript** | 📅 **2026-08-04**
 
 Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 
@@ -158,7 +158,7 @@ omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness 
 
 ### 15. [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 
-⭐ **66,355** | 🔤 **Python** | 📅 **2026-08-04**
+⭐ **66,356** | 🔤 **Python** | 📅 **2026-08-04**
 
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
@@ -284,7 +284,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ### 28. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
-⭐ **42,992** | 🔤 **JavaScript** | 📅 **2026-08-04**
+⭐ **42,993** | 🔤 **JavaScript** | 📅 **2026-08-04**
 
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
@@ -324,7 +324,7 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 
 ### 32. [agents](https://github.com/wshobson/agents)
 
-⭐ **38,479** | 🔤 **Python** | 📅 **2026-08-04**
+⭐ **38,480** | 🔤 **Python** | 📅 **2026-08-04**
 
 Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 
@@ -760,7 +760,7 @@ CC Workflow Studio
 
 ### 1. [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 
-⭐ **59,844** | 🔤 **Python** | 📅 **2026-08-04**
+⭐ **59,845** | 🔤 **Python** | 📅 **2026-08-04**
 
 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 
@@ -778,7 +778,7 @@ CC Workflow Studio
 
 ### 3. [impeccable](https://github.com/pbakaus/impeccable)
 
-⭐ **55,011** | 🔤 **JavaScript** | 📅 **2026-08-04**
+⭐ **55,010** | 🔤 **JavaScript** | 📅 **2026-08-04**
 
 The design language that makes your AI harness better at design.
 
@@ -826,7 +826,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ### 1. [firecrawl](https://github.com/firecrawl/firecrawl)
 
-⭐ **160,787** | 🔤 **TypeScript** | 📅 **2026-08-04**
+⭐ **160,788** | 🔤 **TypeScript** | 📅 **2026-08-04**
 
 The context API to search, scrape, and interact with the web at scale. 🔥
 
@@ -934,7 +934,7 @@ Agent skill that generates rich HTML pages or slide decks for diagrams, diff rev
 
 ⭐ **14,528** | 🔤 **Python** | 📅 **2026-08-04**
 
-Prowler is the Open Cloud Security Platform trusted by thousands to automate security and compliance in any cloud environment. With thousands of ready-to-use checks and compliance frameworks, delivers real-time, customizable monitoring and seamless integrations, making cloud security simple, scalable, cost-effective for organizations of any size.
+Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 
 **Tags:** `aws` `azure` `cis-benchmark` `cloud` `cloudsecurity` `compliance` `cspm` `devsecops`
 
@@ -944,7 +944,7 @@ Prowler is the Open Cloud Security Platform trusted by thousands to automate sec
 
 ### 1. [awesome-python](https://github.com/vinta/awesome-python)
 
-⭐ **312,133** | 🔤 **Python** | 📅 **2026-08-04**
+⭐ **312,134** | 🔤 **Python** | 📅 **2026-08-04**
 
 An opinionated list of Python frameworks, libraries, tools, and resources
 
@@ -954,7 +954,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 
 ### 2. [skills](https://github.com/mattpocock/skills)
 
-⭐ **202,866** | 🔤 **Shell** | 📅 **2026-08-04**
+⭐ **202,868** | 🔤 **Shell** | 📅 **2026-08-04**
 
 Skills for Real Engineers. Straight from my .agents directory.
 
@@ -1134,7 +1134,7 @@ Vercel's official collection of agent skills
 
 ### 21. [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
 
-⭐ **29,583** | 🔤 **Python** | 📅 **2026-08-04**
+⭐ **29,584** | 🔤 **Python** | 📅 **2026-08-04**
 
 "Vibe-Trading: Your Personal Trading Agent"
 
@@ -1314,7 +1314,7 @@ Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Promp
 
 ### 1. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
-⭐ **101,565** | 🔤 **Python** | 📅 **2026-08-04**
+⭐ **101,567** | 🔤 **Python** | 📅 **2026-08-04**
 
 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
