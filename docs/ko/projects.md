@@ -1,10 +1,10 @@
-# 优秀 AI Agent Skills
+# 훌륭한 AI 에이전트 스킬
 
-> 最后更新: **2026-08-04** | Skill 总数: **136**
+> 마지막 업데이트: **2026-08-04** | 전체 스킬: **136**
 
-为 Codex、Claude Code、Cursor、OpenCode 及其他 AI 编程 Agent 精选的可复用 Skill。
+Codex, Claude Code, Cursor, OpenCode 및 기타 AI 코딩 에이전트를 위한 재사용 가능한 스킬 모음입니다.
 
-## 分类
+## 카테고리
 
 - [Coding](#coding)
 - [Creative](#creative)
@@ -1322,6 +1322,6 @@ Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Promp
 
 ---
 
-## 参与贡献
+## 기여
 
-欢迎通过 Pull Request 提交高质量、可复用的 Agent Skill。 See [CONTRIBUTING.md](../../CONTRIBUTING.md).
+고품질의 재사용 가능한 에이전트 스킬을 Pull Request로 추가해 주세요. See [CONTRIBUTING.md](../../CONTRIBUTING.md).

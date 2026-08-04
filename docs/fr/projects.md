@@ -1,10 +1,10 @@
-# 优秀 AI Agent Skills
+# Skills d'agents IA remarquables
 
-> 最后更新: **2026-08-04** | Skill 总数: **136**
+> Dernière mise à jour: **2026-08-04** | Skills au total: **136**
 
-为 Codex、Claude Code、Cursor、OpenCode 及其他 AI 编程 Agent 精选的可复用 Skill。
+Une sélection de skills réutilisables pour Codex, Claude Code, Cursor, OpenCode et d'autres agents de programmation IA.
 
-## 分类
+## Catégories
 
 - [Coding](#coding)
 - [Creative](#creative)
@@ -1322,6 +1322,6 @@ Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Promp
 
 ---
 
-## 参与贡献
+## Contribuer
 
-欢迎通过 Pull Request 提交高质量、可复用的 Agent Skill。 See [CONTRIBUTING.md](../../CONTRIBUTING.md).
+Ajoutez un skill d'agent de qualité et réutilisable avec une pull request. See [CONTRIBUTING.md](../../CONTRIBUTING.md).
