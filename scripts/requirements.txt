@@ -1,0 +1,1 @@
+# The collector uses Python's standard library only.
