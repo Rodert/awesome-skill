@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-11T01:35:32.243974+00:00",
-  "total": 161,
+  "total": 162,
   "skills": [
     {
       "name": "awesome-python",
@@ -3792,6 +3792,20 @@
       ],
       "category": "coding",
       "owner": "breaking-brake",
+      "archived": false,
+      "has_skill_file": false
+    },
+    {
+      "name": "yylo",
+      "full_name": "yylo-dev/yylo",
+      "description": "YYLO (why-lo): AI coding-agent orchestration CLI with equivalent yylo and yy launchers.",
+      "url": "https://github.com/yylo-dev/yylo",
+      "stars": 59,
+      "language": "Python",
+      "updated_at": "2026-09-10T17:56:25Z",
+      "topics": ["agentic-coding-approved", "agentic-coding-rules", "agentic-coding-tool", "agentic-coding-tools", "agentic-coding-workflow", "ai-agent", "ai-native-development", "aider", "autonomous-agents", "claude-code", "coding-agent", "developer-tools", "developer-tools-productivity", "developer-tools-ai-agent", "git-workflow", "local-first", "pi-agent", "ralph-loop", "ralph-wiggum", "yylo"],
+      "category": "coding",
+      "owner": "yylo-dev",
       "archived": false,
       "has_skill_file": false
     }
