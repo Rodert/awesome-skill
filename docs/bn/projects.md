@@ -1,6 +1,6 @@
 # চমৎকার AI এজেন্ট স্কিল
 
-> সর্বশেষ হালনাগাদ: **2026-10-04** | মোট স্কিল: **175**
+> সর্বশেষ হালনাগাদ: **2026-10-04** | মোট স্কিল: **176**
 
 Codex, Claude Code, Cursor, OpenCode এবং অন্যান্য AI কোডিং এজেন্টের জন্য পুনর্ব্যবহারযোগ্য স্কিলের নির্বাচিত তালিকা।
 
@@ -989,6 +989,16 @@ Design engineering for Claude Code. Craft, memory, and enforcement for consisten
 CC Workflow Studio
 
 **Tags:** `agent-skills` `claude-code` `mcp-tools` `slash-commands` `sub-agents` `vscode-extension` `workflow-automation`
+
+---
+
+### 101. [agent-qa](https://github.com/vostride/agent-qa)
+
+⭐ **897** | 🔤 **TypeScript** | 📅 **2026-10-03**
+
+Authoring skill for YAML web and mobile regression tests via CLI/local MCP. FSL-1.1-ALv2; software currently free, with configured provider costs separate.
+
+**Tags:** `ai-agents` `ai-testing` `anthropic` `autonomous-agents` `browser-automation` `chatgpt` `claude-code` `clawdbot`
 
 ---
 

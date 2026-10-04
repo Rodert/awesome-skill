@@ -1,6 +1,6 @@
 # Отличные навыки ИИ-агентов
 
-> Последнее обновление: **2026-10-04** | Всего навыков: **175**
+> Последнее обновление: **2026-10-04** | Всего навыков: **176**
 
 Подборка повторно используемых навыков для Codex, Claude Code, Cursor, OpenCode и других ИИ-агентов программирования.
 
@@ -989,6 +989,16 @@ Design engineering for Claude Code. Craft, memory, and enforcement for consisten
 CC Workflow Studio
 
 **Tags:** `agent-skills` `claude-code` `mcp-tools` `slash-commands` `sub-agents` `vscode-extension` `workflow-automation`
+
+---
+
+### 101. [agent-qa](https://github.com/vostride/agent-qa)
+
+⭐ **897** | 🔤 **TypeScript** | 📅 **2026-10-03**
+
+Authoring skill for YAML web and mobile regression tests via CLI/local MCP. FSL-1.1-ALv2; software currently free, with configured provider costs separate.
+
+**Tags:** `ai-agents` `ai-testing` `anthropic` `autonomous-agents` `browser-automation` `chatgpt` `claude-code` `clawdbot`
 
 ---
 
