@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T02:57:10.359726+00:00",
-  "total": 175,
+  "last_updated": "2026-10-04T03:18:34.596416+00:00",
+  "total": 176,
   "skills": [
     {
       "name": "awesome-python",
@@ -4215,6 +4215,41 @@
       "owner": "breaking-brake",
       "archived": false,
       "has_skill_file": false
+    },
+    {
+      "name": "agent-qa",
+      "full_name": "vostride/agent-qa",
+      "description": "Authoring skill for YAML web and mobile regression tests via CLI/local MCP. FSL-1.1-ALv2; software currently free, with configured provider costs separate.",
+      "url": "https://github.com/vostride/agent-qa",
+      "stars": 897,
+      "language": "TypeScript",
+      "updated_at": "2026-10-03T18:50:13Z",
+      "topics": [
+        "ai-agents",
+        "ai-testing",
+        "anthropic",
+        "autonomous-agents",
+        "browser-automation",
+        "chatgpt",
+        "claude-code",
+        "clawdbot",
+        "codex",
+        "developer-tools",
+        "dsh-plugin",
+        "end-to-end-testing",
+        "frontend",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "model-context-protocol",
+        "openai",
+        "playwright",
+        "qa-automation"
+      ],
+      "category": "coding",
+      "owner": "vostride",
+      "archived": false,
+      "has_skill_file": true
     }
   ]
 }
