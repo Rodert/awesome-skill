@@ -1,6 +1,6 @@
 # Awesome Agent Skills
 
-> Last updated: **2026-10-31** | Total skills: **188**
+> Last updated: **2026-10-31** | Total skills: **189**
 
 A curated list of reusable skills for Codex, Claude Code, Cursor, OpenCode, and other AI coding agents.
 
@@ -1119,6 +1119,16 @@ Design engineering for Claude Code. Craft, memory, and enforcement for consisten
 CC Workflow Studio
 
 **Tags:** `agent-skills` `claude-code` `mcp-tools` `slash-commands` `sub-agents` `vscode-extension` `workflow-automation`
+
+---
+
+### 114. [agent-qa](https://github.com/vostride/agent-qa)
+
+⭐ **912** | 🔤 **TypeScript** | 📅 **2026-10-31**
+
+Four skills for authoring, debugging, result triage and knowledge review in self-improving web/mobile QA with memidex memory, CLI and MCP. FSL-1.1-ALv2; provider costs may apply.
+
+**Tags:** `ai-agents` `ai-testing` `browser-automation` `claude-code` `codex` `developer-tools` `mcp` `mcp-server`
 
 ---
 
