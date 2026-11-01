@@ -1,6 +1,6 @@
 # Skills d'agents IA remarquables
 
-> Dernière mise à jour: **2026-10-31** | Skills au total: **188**
+> Dernière mise à jour: **2026-11-01** | Skills au total: **189**
 
 Une sélection de skills réutilisables pour Codex, Claude Code, Cursor, OpenCode et d'autres agents de programmation IA.
 
@@ -20,7 +20,7 @@ Une sélection de skills réutilisables pour Codex, Claude Code, Cursor, OpenCod
 
 ### 1. [superpowers](https://github.com/obra/superpowers)
 
-⭐ **309,481** | 🔤 **Shell** | 📅 **2026-10-31**
+⭐ **310,104** | 🔤 **Shell** | 📅 **2026-11-01**
 
 An agentic skills framework & software development methodology that works.
 
@@ -30,7 +30,7 @@ An agentic skills framework & software development methodology that works.
 
 ### 2. [ECC](https://github.com/affaan-m/ECC)
 
-⭐ **293,450** | 🔤 **JavaScript** | 📅 **2026-10-31**
+⭐ **294,118** | 🔤 **JavaScript** | 📅 **2026-11-01**
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
@@ -40,7 +40,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ### 3. [awesome-go](https://github.com/avelino/awesome-go)
 
-⭐ **191,229** | 🔤 **Go** | 📅 **2026-10-31**
+⭐ **191,390** | 🔤 **Go** | 📅 **2026-11-01**
 
 A curated list of awesome Go frameworks, libraries and software
 
@@ -50,7 +50,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### 4. [ponytail](https://github.com/DietrichGebert/ponytail)
 
-⭐ **181,016** | 🔤 **JavaScript** | 📅 **2026-10-31**
+⭐ **181,565** | 🔤 **JavaScript** | 📅 **2026-11-01**
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
@@ -60,7 +60,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
-⭐ **150,431** | 🔤 **Rust** | 📅 **2026-10-31**
+⭐ **150,664** | 🔤 **Rust** | 📅 **2026-11-01**
 
 A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
 
@@ -70,7 +70,7 @@ A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,D
 
 ### 6. [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 
-⭐ **143,060** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **143,450** | 🔤 **Python** | 📅 **2026-11-01**
 
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
@@ -80,7 +80,7 @@ An AI skill that provides design intelligence for building professional UI/UX ac
 
 ### 7. [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-⭐ **140,822** | 🔤 **HTML** | 📅 **2026-10-31**
+⭐ **141,002** | 🔤 **HTML** | 📅 **2026-11-01**
 
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
@@ -90,7 +90,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### 8. [graphify](https://github.com/Graphify-Labs/graphify)
 
-⭐ **139,526** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **140,059** | 🔤 **Python** | 📅 **2026-11-01**
 
 Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
@@ -100,7 +100,7 @@ Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab
 
 ### 9. [gstack](https://github.com/garrytan/gstack)
 
-⭐ **138,339** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **138,489** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
@@ -108,7 +108,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ### 10. [agent-skills](https://github.com/addyosmani/agent-skills)
 
-⭐ **112,017** | 🔤 **JavaScript** | 📅 **2026-10-31**
+⭐ **112,274** | 🔤 **JavaScript** | 📅 **2026-11-01**
 
 Production-grade engineering skills for AI coding agents.
 
@@ -118,7 +118,7 @@ Production-grade engineering skills for AI coding agents.
 
 ### 11. [paperclip](https://github.com/paperclipai/paperclip)
 
-⭐ **109,004** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **109,496** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 The open-source app everyone uses to manage agents at work
 
@@ -128,7 +128,7 @@ The open-source app everyone uses to manage agents at work
 
 ### 12. [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 
-⭐ **106,863** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **107,247** | 🔤 **Python** | 📅 **2026-11-01**
 
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
@@ -138,7 +138,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ### 13. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
-⭐ **106,396** | 🔤 **JavaScript** | 📅 **2026-10-31**
+⭐ **107,093** | 🔤 **JavaScript** | 📅 **2026-11-01**
 
 Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
@@ -148,7 +148,7 @@ Agent skills that give coding agents taste: art direction, reference images and 
 
 ### 14. [open-design](https://github.com/nexu-io/open-design)
 
-⭐ **105,057** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **105,207** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.
 
@@ -168,7 +168,7 @@ The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Cr
 
 ### 16. [impeccable](https://github.com/pbakaus/impeccable)
 
-⭐ **97,172** | 🔤 **Rust** | 📅 **2026-10-31**
+⭐ **98,368** | 🔤 **Rust** | 📅 **2026-11-01**
 
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
@@ -178,7 +178,7 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 
 ### 17. [archify](https://github.com/tt-a1i/archify)
 
-⭐ **91,861** | 🔤 **JavaScript** | 📅 **2026-10-31**
+⭐ **92,164** | 🔤 **JavaScript** | 📅 **2026-11-01**
 
 Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 
@@ -188,7 +188,7 @@ Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent 
 
 ### 18. [deer-flow](https://github.com/bytedance/deer-flow)
 
-⭐ **84,739** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **84,777** | 🔤 **Python** | 📅 **2026-11-01**
 
 An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 
@@ -198,7 +198,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ### 19. [career-ops](https://github.com/career-ops-hq/career-ops)
 
-⭐ **78,908** | 🔤 **JavaScript** | 📅 **2026-10-31**
+⭐ **79,076** | 🔤 **JavaScript** | 📅 **2026-11-01**
 
 Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin.
 
@@ -208,7 +208,7 @@ Open-source AI job search agent and job finder: scan job boards, score each job 
 
 ### 20. [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 
-⭐ **78,359** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **78,456** | 🔤 **Python** | 📅 **2026-11-01**
 
 A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
@@ -218,7 +218,7 @@ A curated list of awesome Claude Skills, resources, and tools for customizing Cl
 
 ### 21. [hyperframes](https://github.com/heygen-com/hyperframes)
 
-⭐ **76,096** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **76,611** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 Write HTML. Render video. Built for agents.
 
@@ -228,7 +228,7 @@ Write HTML. Render video. Built for agents.
 
 ### 22. [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
-⭐ **74,609** | 🔤 **MDX** | 📅 **2026-10-31**
+⭐ **74,618** | 🔤 **MDX** | 📅 **2026-11-01**
 
 🗂 The essential checklist for modern web development, for humans and AI agents
 
@@ -238,7 +238,7 @@ Write HTML. Render video. Built for agents.
 
 ### 23. [OpenMontage](https://github.com/calesthio/OpenMontage)
 
-⭐ **73,493** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **74,012** | 🔤 **Python** | 📅 **2026-11-01**
 
 World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 
@@ -248,7 +248,7 @@ World's first open-source, agentic video production system. 12 production pipeli
 
 ### 24. [strix](https://github.com/usestrix/strix)
 
-⭐ **72,963** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **73,103** | 🔤 **Python** | 📅 **2026-11-01**
 
 Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
@@ -278,7 +278,7 @@ OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of gr
 
 ### 27. [openinterpreter](https://github.com/openinterpreter/openinterpreter)
 
-⭐ **68,747** | 🔤 **Rust** | 📅 **2026-10-31**
+⭐ **68,763** | 🔤 **Rust** | 📅 **2026-11-01**
 
 A coding agent for open models like Kimi K3 and GLM 5.3
 
@@ -286,19 +286,9 @@ A coding agent for open models like Kimi K3 and GLM 5.3
 
 ---
 
-### 28. [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+### 28. [ai-job-search](https://github.com/ai-job-search-dev/ai-job-search)
 
-⭐ **68,337** | 🔤 **HTML** | 📅 **2026-10-31**
-
-from vibe coding to agentic engineering - practice makes claude perfect
-
-**Tags:** `agentic-ai` `agentic-coding` `agentic-engineering` `agentic-workflow` `ai` `ai-agents` `anthropic` `best-practices`
-
----
-
-### 29. [ai-job-search](https://github.com/ai-job-search-dev/ai-job-search)
-
-⭐ **68,006** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **68,476** | 🔤 **Python** | 📅 **2026-11-01**
 
 The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 
@@ -306,9 +296,19 @@ The job search that runs on your machine. AI job application framework built on 
 
 ---
 
+### 29. [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+
+⭐ **68,385** | 🔤 **HTML** | 📅 **2026-11-01**
+
+from vibe coding to agentic engineering - practice makes claude perfect
+
+**Tags:** `agentic-ai` `agentic-coding` `agentic-engineering` `agentic-workflow` `ai` `ai-agents` `anthropic` `best-practices`
+
+---
+
 ### 30. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
 
-⭐ **66,019** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **66,126** | 🔤 **Python** | 📅 **2026-11-01**
 
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
@@ -318,7 +318,7 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 ### 31. [diagram-design](https://github.com/cathrynlavery/diagram-design)
 
-⭐ **63,280** | 🔤 **HTML** | 📅 **2026-10-31**
+⭐ **63,507** | 🔤 **HTML** | 📅 **2026-11-01**
 
 Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
@@ -328,7 +328,7 @@ Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory
 
 ### 32. [humanizer](https://github.com/blader/humanizer)
 
-⭐ **62,746** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **62,995** | 🔤 **Python** | 📅 **2026-11-01**
 
 Agent skill that removes signs of AI-generated writing from text
 
@@ -338,7 +338,7 @@ Agent skill that removes signs of AI-generated writing from text
 
 ### 33. [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
 
-⭐ **61,972** | 🔤 **N/A** | 📅 **2026-10-31**
+⭐ **61,972** | 🔤 **N/A** | 📅 **2026-11-01**
 
 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
@@ -358,7 +358,7 @@ The job search that runs on your machine. AI job application framework built on 
 
 ### 35. [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 
-⭐ **60,220** | 🔤 **Rust** | 📅 **2026-10-31**
+⭐ **60,249** | 🔤 **Rust** | 📅 **2026-11-01**
 
 A curated list of Rust code and resources.
 
@@ -368,7 +368,7 @@ A curated list of Rust code and resources.
 
 ### 36. [i-have-adhd](https://github.com/ayghri/i-have-adhd)
 
-⭐ **59,513** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **59,603** | 🔤 **Python** | 📅 **2026-11-01**
 
 A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 
@@ -378,7 +378,7 @@ A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 
 ### 37. [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
-⭐ **57,843** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **57,947** | 🔤 **Python** | 📅 **2026-11-01**
 
 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
@@ -386,7 +386,7 @@ A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 
 ### 38. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
-⭐ **57,528** | 🔤 **JavaScript** | 📅 **2026-10-31**
+⭐ **57,698** | 🔤 **JavaScript** | 📅 **2026-11-01**
 
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
@@ -396,7 +396,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 ### 39. [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 
-⭐ **56,941** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **56,996** | 🔤 **Python** | 📅 **2026-11-01**
 
 A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
 
@@ -406,7 +406,7 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 ### 40. [ai-agent-book](https://github.com/bojieli/ai-agent-book)
 
-⭐ **56,693** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **56,768** | 🔤 **Python** | 📅 **2026-11-01**
 
 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 
@@ -416,7 +416,7 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 
 ### 41. [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 
-⭐ **55,413** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **55,556** | 🔤 **Python** | 📅 **2026-11-01**
 
 Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 
@@ -424,9 +424,17 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ---
 
-### 42. [academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+### 42. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
-⭐ **54,682** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **55,408** | 🔤 **JavaScript** | 📅 **2026-11-01**
+
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+
+---
+
+### 43. [academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+
+⭐ **54,765** | 🔤 **Python** | 📅 **2026-11-01**
 
 Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
@@ -434,9 +442,9 @@ Academic Research Skills for Claude Code: research → write → review → revi
 
 ---
 
-### 43. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+### 44. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
-⭐ **54,513** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **54,569** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 Chrome DevTools for coding agents
 
@@ -444,17 +452,9 @@ Chrome DevTools for coding agents
 
 ---
 
-### 44. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-
-⭐ **54,216** | 🔤 **JavaScript** | 📅 **2026-10-31**
-
-A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-
----
-
 ### 45. [nature-skills](https://github.com/Yuan1z0825/nature-skills)
 
-⭐ **51,511** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **51,598** | 🔤 **Python** | 📅 **2026-11-01**
 
 符合nature论文学术表达和科研绘图的Skill
 
@@ -464,7 +464,7 @@ A coding-agent skill for multi-phase security audits with independently verified
 
 ### 46. [obsidian-skills](https://github.com/kepano/obsidian-skills)
 
-⭐ **50,468** | 🔤 **N/A** | 📅 **2026-10-31**
+⭐ **50,531** | 🔤 **N/A** | 📅 **2026-11-01**
 
 Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 
@@ -474,9 +474,9 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ### 47. [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
 
-⭐ **48,854** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **48,924** | 🔤 **Python** | 📅 **2026-11-01**
 
-2,877+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 
 **Tags:** `agent-skills` `agentic-skills` `ai-agent-skills` `ai-agents` `ai-coding` `ai-workflows` `antigravity` `antigravity-skills`
 
@@ -484,7 +484,7 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 ### 48. [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 
-⭐ **48,332** | 🔤 **N/A** | 📅 **2026-10-31**
+⭐ **48,337** | 🔤 **N/A** | 📅 **2026-11-01**
 
 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
@@ -502,7 +502,7 @@ GitNexus: The Zero-Server Code Intelligence Engine
 
 ### 50. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
-⭐ **47,869** | 🔤 **C** | 📅 **2026-10-31**
+⭐ **47,912** | 🔤 **C** | 📅 **2026-11-01**
 
 Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
 
@@ -512,7 +512,7 @@ Local code intelligence for developers and AI agents. Connect code, docs and inf
 
 ### 51. [LibreChat](https://github.com/LibreChat-AI/LibreChat)
 
-⭐ **46,521** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **46,587** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 
@@ -522,7 +522,7 @@ Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, 
 
 ### 52. [claude-howto](https://github.com/luongnv89/claude-howto)
 
-⭐ **46,227** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **46,285** | 🔤 **Python** | 📅 **2026-11-01**
 
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
@@ -532,7 +532,7 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 
 ### 53. [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 
-⭐ **45,457** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **45,584** | 🔤 **Python** | 📅 **2026-11-01**
 
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
@@ -560,25 +560,25 @@ Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, 
 
 ---
 
-### 56. [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+### 56. [hallmark](https://github.com/Nutlope/hallmark)
 
-⭐ **43,824** | 🔤 **PowerShell** | 📅 **2026-10-31**
-
-Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-
----
-
-### 57. [hallmark](https://github.com/Nutlope/hallmark)
-
-⭐ **43,049** | 🔤 **CSS** | 📅 **2026-10-31**
+⭐ **43,986** | 🔤 **CSS** | 📅 **2026-11-01**
 
 Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ---
 
+### 57. [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+
+⭐ **43,882** | 🔤 **PowerShell** | 📅 **2026-11-01**
+
+Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+
+---
+
 ### 58. [agno](https://github.com/agno-agi/agno)
 
-⭐ **42,983** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **43,001** | 🔤 **Python** | 📅 **2026-11-01**
 
 The self-driving agent platform
 
@@ -588,7 +588,7 @@ The self-driving agent platform
 
 ### 59. [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 
-⭐ **40,435** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **40,464** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 Teams-first Multi-agent orchestration for Claude Code
 
@@ -608,7 +608,7 @@ Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCod
 
 ### 61. [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
 
-⭐ **36,643** | 🔤 **N/A** | 📅 **2026-10-31**
+⭐ **36,680** | 🔤 **N/A** | 📅 **2026-11-01**
 
 A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 
@@ -618,7 +618,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 
 ### 62. [book-to-skill](https://github.com/virgiliojr94/book-to-skill)
 
-⭐ **36,601** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **36,661** | 🔤 **Python** | 📅 **2026-11-01**
 
 Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 
@@ -628,7 +628,7 @@ Turn any technical book PDF into a Claude Code skill — ready to study, referen
 
 ### 63. [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-⭐ **35,285** | 🔤 **JavaScript** | 📅 **2026-10-31**
+⭐ **35,319** | 🔤 **JavaScript** | 📅 **2026-11-01**
 
 Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
 
@@ -648,7 +648,7 @@ Clone any website with one command using AI coding agents
 
 ### 65. [claude-code-templates](https://github.com/davila7/claude-code-templates)
 
-⭐ **33,005** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **33,021** | 🔤 **Python** | 📅 **2026-11-01**
 
 CLI tool for configuring and monitoring Claude Code
 
@@ -658,7 +658,7 @@ CLI tool for configuring and monitoring Claude Code
 
 ### 66. [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
 
-⭐ **32,839** | 🔤 **C#** | 📅 **2026-10-31**
+⭐ **32,881** | 🔤 **C#** | 📅 **2026-11-01**
 
 OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
@@ -668,7 +668,7 @@ OfficeCLI is the first and best Office suite  purpose-built for AI agents to rea
 
 ### 67. [frontend-slides](https://github.com/zarazhangrui/frontend-slides)
 
-⭐ **31,617** | 🔤 **JavaScript** | 📅 **2026-10-31**
+⭐ **31,654** | 🔤 **JavaScript** | 📅 **2026-11-01**
 
 Create beautiful slides on the web using a coding agent's frontend skills
 
@@ -678,7 +678,7 @@ Create beautiful slides on the web using a coding agent's frontend skills
 
 ### 68. [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
 
-⭐ **30,470** | 🔤 **Shell** | 📅 **2026-10-31**
+⭐ **31,233** | 🔤 **Shell** | 📅 **2026-11-01**
 
 Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 
@@ -688,7 +688,7 @@ Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skill
 
 ### 69. [video-use](https://github.com/browser-use/video-use)
 
-⭐ **30,195** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **30,282** | 🔤 **Python** | 📅 **2026-11-01**
 
 Edit videos with coding agents
 
@@ -696,7 +696,7 @@ Edit videos with coding agents
 
 ### 70. [agentmemory](https://github.com/rohitg00/agentmemory)
 
-⭐ **30,038** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **30,052** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 #1 Persistent memory for AI coding agents based on real-world benchmarks
 
@@ -706,7 +706,7 @@ Edit videos with coding agents
 
 ### 71. [repomix](https://github.com/yamadashy/repomix)
 
-⭐ **29,094** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **29,101** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
@@ -716,7 +716,7 @@ Edit videos with coding agents
 
 ### 72. [claude-skills](https://github.com/alirezarezvani/claude-skills)
 
-⭐ **29,039** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **29,078** | 🔤 **Python** | 📅 **2026-11-01**
 
 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
 
@@ -726,7 +726,7 @@ Edit videos with coding agents
 
 ### 73. [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
 
-⭐ **28,982** | 🔤 **HTML** | 📅 **2026-10-31**
+⭐ **29,027** | 🔤 **HTML** | 📅 **2026-11-01**
 
 AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 
@@ -736,7 +736,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 ### 74. [crush](https://github.com/charmbracelet/crush)
 
-⭐ **28,890** | 🔤 **Go** | 📅 **2026-10-30**
+⭐ **28,903** | 🔤 **Go** | 📅 **2026-11-01**
 
 Glamourous agentic coding for all 💘
 
@@ -746,7 +746,7 @@ Glamourous agentic coding for all 💘
 
 ### 75. [skills](https://github.com/openai/skills)
 
-⭐ **28,420** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **28,434** | 🔤 **Python** | 📅 **2026-11-01**
 
 Skills Catalog for Codex
 
@@ -754,7 +754,7 @@ Skills Catalog for Codex
 
 ### 76. [huashu-design](https://github.com/alchaincyf/huashu-design)
 
-⭐ **28,234** | 🔤 **HTML** | 📅 **2026-10-31**
+⭐ **28,319** | 🔤 **HTML** | 📅 **2026-11-01**
 
 Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
 
@@ -764,7 +764,7 @@ Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网�
 
 ### 77. [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
 
-⭐ **27,781** | 🔤 **Shell** | 📅 **2026-10-31**
+⭐ **27,799** | 🔤 **Shell** | 📅 **2026-11-01**
 
 Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 
@@ -774,7 +774,7 @@ Persistent file-based planning for AI coding agents and long-running tasks. Cras
 
 ### 78. [pm-skills](https://github.com/phuryn/pm-skills)
 
-⭐ **27,550** | 🔤 **N/A** | 📅 **2026-10-31**
+⭐ **27,577** | 🔤 **N/A** | 📅 **2026-11-01**
 
 PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 
@@ -814,7 +814,7 @@ Distilly — Distill how they think into reusable Skills for any Agent or Bot. F
 
 ### 82. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
 
-⭐ **23,548** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **23,711** | 🔤 **Python** | 📅 **2026-11-01**
 
 Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
 
@@ -824,7 +824,7 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 ### 83. [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
 
-⭐ **23,172** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **23,186** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 
@@ -832,19 +832,19 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 
 ---
 
-### 84. [vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)
+### 84. [claude-code](https://github.com/claude-code-best/claude-code)
+
+⭐ **23,118** | 🔤 **TypeScript** | 📅 **2026-10-31**
+
+原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复
+
+---
+
+### 85. [vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)
 
 ⭐ **23,110** | 🔤 **Python** | 📅 **2026-10-30**
 
 
-
----
-
-### 85. [claude-code](https://github.com/claude-code-best/claude-code)
-
-⭐ **23,105** | 🔤 **TypeScript** | 📅 **2026-10-31**
-
-原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复
 
 ---
 
@@ -870,7 +870,7 @@ Unofficial Python API and agentic skill for Google Gemini Notebook. Full program
 
 ### 88. [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
-⭐ **18,346** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **18,370** | 🔤 **Python** | 📅 **2026-10-31**
 
 ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
 
@@ -890,7 +890,7 @@ Rebuild the object in a reference image as a code-only, procedural, quality-gate
 
 ### 90. [gsap-skills](https://github.com/greensock/gsap-skills)
 
-⭐ **17,600** | 🔤 **N/A** | 📅 **2026-10-31**
+⭐ **17,645** | 🔤 **N/A** | 📅 **2026-11-01**
 
 Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 
@@ -908,7 +908,7 @@ Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill
 
 ### 92. [awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills)
 
-⭐ **17,139** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **17,150** | 🔤 **Python** | 📅 **2026-11-01**
 
 A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 
@@ -918,7 +918,7 @@ A curated list of practical Codex skills for automating workflows across the Cod
 
 ### 93. [ai-berkshire](https://github.com/xbtlin/ai-berkshire)
 
-⭐ **16,948** | 🔤 **HTML** | 📅 **2026-10-31**
+⭐ **16,966** | 🔤 **HTML** | 📅 **2026-11-01**
 
 AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
 
@@ -928,7 +928,7 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 ### 94. [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
 
-⭐ **15,171** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **15,513** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.
 
@@ -938,7 +938,7 @@ AI video skill for Claude Code & Codex — cinematic, editable product promos wi
 
 ### 95. [OpenCreator](https://github.com/krillinai/OpenCreator)
 
-⭐ **14,046** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **14,057** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
 
@@ -948,7 +948,7 @@ Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace 
 
 ### 96. [academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex)
 
-⭐ **13,794** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **13,834** | 🔤 **Python** | 📅 **2026-11-01**
 
 Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows
 
@@ -958,7 +958,7 @@ Codex-native Academic Research Skills suite for human-in-the-loop academic resea
 
 ### 97. [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)
 
-⭐ **13,737** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **13,738** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 MiMo Code: Where Models and Agents Co-Evolve
 
@@ -968,7 +968,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 ### 98. [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)
 
-⭐ **12,989** | 🔤 **N/A** | 📅 **2026-10-31**
+⭐ **13,010** | 🔤 **N/A** | 📅 **2026-11-01**
 
 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
@@ -988,7 +988,7 @@ The open source AI research agent.
 
 ### 100. [Scanners-Box](https://github.com/We5ter/Scanners-Box)
 
-⭐ **9,158** | 🔤 **N/A** | 📅 **2026-10-31**
+⭐ **9,163** | 🔤 **N/A** | 📅 **2026-10-31**
 
 The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agents——面向极客、企业与 AI 智能体的全域开源网络安全工具矩阵
 
@@ -998,7 +998,7 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 
 ### 101. [skill](https://github.com/anbeime/skill)
 
-⭐ **8,950** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **8,975** | 🔤 **Python** | 📅 **2026-11-01**
 
 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curated skill packs across document processing, content creation, programming, machine learning, automated workflows, and many more domains.
 
@@ -1008,7 +1008,7 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 
 ### 102. [goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi)
 
-⭐ **8,912** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **8,960** | 🔤 **Python** | 📅 **2026-11-01**
 
 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。
 
@@ -1018,7 +1018,7 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 
 ### 103. [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh)
 
-⭐ **8,431** | 🔤 **JavaScript** | 📅 **2026-10-31**
+⭐ **8,434** | 🔤 **JavaScript** | 📅 **2026-10-31**
 
 🦸 AI 编程超能力 · 中文增强版 — superpowers（250k+ ⭐）完整汉化 + 4 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI / Qoder 等 26 款 AI 编程工具真正会干活
 
@@ -1028,7 +1028,7 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 
 ### 104. [codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
 
-⭐ **7,621** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **7,625** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
@@ -1038,7 +1038,7 @@ ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the
 
 ### 105. [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)
 
-⭐ **7,476** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **7,494** | 🔤 **Python** | 📅 **2026-11-01**
 
 GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents
 
@@ -1048,7 +1048,7 @@ GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentation
 
 ### 106. [gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster)
 
-⭐ **7,442** | 🔤 **N/A** | 📅 **2026-10-30**
+⭐ **7,451** | 🔤 **N/A** | 📅 **2026-10-31**
 
 Codex skill for generating quiet minimal zine-style editorial poster prompts and images.
 
@@ -1126,7 +1126,7 @@ CC Workflow Studio
 
 ### 1. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
 
-⭐ **95,840** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **96,935** | 🔤 **Python** | 📅 **2026-11-01**
 
 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
@@ -1136,7 +1136,7 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 
 ### 2. [remotion](https://github.com/remotion-dev/remotion)
 
-⭐ **69,157** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **69,473** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 🎥      Make videos programmatically with React
 
@@ -1146,7 +1146,7 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 
 ### 3. [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 
-⭐ **69,005** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **69,340** | 🔤 **Python** | 📅 **2026-11-01**
 
 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 
@@ -1154,7 +1154,7 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 
 ### 4. [ant-design-pro](https://github.com/ant-design/ant-design-pro)
 
-⭐ **38,916** | 🔤 **TypeScript** | 📅 **2026-10-30**
+⭐ **38,920** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 
@@ -1164,7 +1164,7 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 
 ### 5. [claude-video](https://github.com/bradautomates/claude-video)
 
-⭐ **19,588** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **19,641** | 🔤 **Python** | 📅 **2026-11-01**
 
 Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 
@@ -1172,7 +1172,7 @@ Give Claude the ability to watch any video. /watch downloads, extracts frames, t
 
 ### 6. [garden-skills](https://github.com/ConardLi/garden-skills)
 
-⭐ **13,426** | 🔤 **JavaScript** | 📅 **2026-10-31**
+⭐ **13,444** | 🔤 **JavaScript** | 📅 **2026-11-01**
 
 ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 
@@ -1184,7 +1184,7 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 ### 1. [firecrawl](https://github.com/firecrawl/firecrawl)
 
-⭐ **197,143** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **197,437** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 
@@ -1194,7 +1194,7 @@ Supercharge your AI agents with data from the web and beyond. Building the libra
 
 ### 2. [Scrapling](https://github.com/D4Vinci/Scrapling)
 
-⭐ **90,493** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **91,010** | 🔤 **Python** | 📅 **2026-11-01**
 
 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 
@@ -1204,7 +1204,7 @@ Supercharge your AI agents with data from the web and beyond. Building the libra
 
 ### 3. [MinerU](https://github.com/opendatalab/MinerU)
 
-⭐ **82,827** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **82,895** | 🔤 **Python** | 📅 **2026-11-01**
 
 Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 
@@ -1214,7 +1214,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ### 4. [ppt-master](https://github.com/hugohe3/ppt-master)
 
-⭐ **71,347** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **71,684** | 🔤 **Python** | 📅 **2026-11-01**
 
 AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
 
@@ -1224,7 +1224,7 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 
 ### 5. [twenty](https://github.com/twentyhq/twenty)
 
-⭐ **60,186** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **60,223** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 The open alternative to Salesforce, designed for AI.
 
@@ -1234,7 +1234,7 @@ The open alternative to Salesforce, designed for AI.
 
 ### 6. [appwrite](https://github.com/appwrite/appwrite)
 
-⭐ **57,801** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **57,808** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 
@@ -1244,7 +1244,7 @@ The open-source cloud for agents & devs. Including Auth, Databases, Storage, Fun
 
 ### 7. [private-gpt](https://github.com/zylon-ai/private-gpt)
 
-⭐ **57,622** | 🔤 **Python** | 📅 **2026-10-30**
+⭐ **57,624** | 🔤 **Python** | 📅 **2026-10-31**
 
 Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 
@@ -1254,7 +1254,7 @@ Complete API layer for private AI applications on local models: RAG, skills, too
 
 ### 8. [orm](https://github.com/prisma/orm)
 
-⭐ **47,662** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **47,658** | 🔤 **TypeScript** | 📅 **2026-10-31**
 
 The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 
@@ -1284,7 +1284,7 @@ Apache Airflow - A platform to programmatically author, schedule, and monitor wo
 
 ### 11. [agent-browser](https://github.com/vercel-labs/agent-browser)
 
-⭐ **44,940** | 🔤 **Rust** | 📅 **2026-10-31**
+⭐ **45,039** | 🔤 **Rust** | 📅 **2026-11-01**
 
 Browser automation CLI for AI agents
 
@@ -1322,7 +1322,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 ### 15. [visual-explainer](https://github.com/nicobailon/visual-explainer)
 
-⭐ **10,707** | 🔤 **JavaScript** | 📅 **2026-10-30**
+⭐ **10,723** | 🔤 **JavaScript** | 📅 **2026-11-01**
 
 Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 
@@ -1330,7 +1330,7 @@ Agent skill that generates rich HTML pages or slide decks for diagrams, diff rev
 
 ### 16. [pinchtab](https://github.com/pinchtab/pinchtab)
 
-⭐ **10,476** | 🔤 **Go** | 📅 **2026-10-30**
+⭐ **10,523** | 🔤 **Go** | 📅 **2026-11-01**
 
 High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 
@@ -1360,7 +1360,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 
 ### 2. [prowler](https://github.com/prowler-cloud/prowler)
 
-⭐ **15,140** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **15,146** | 🔤 **Python** | 📅 **2026-10-31**
 
 This repo hosts Prowler OSS (CLI and Local Server). Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment for Humans and AI Agents.
 
@@ -1372,7 +1372,7 @@ This repo hosts Prowler OSS (CLI and Local Server). Prowler is the world’s mos
 
 ### 1. [awesome-python](https://github.com/vinta/awesome-python)
 
-⭐ **331,433** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **331,630** | 🔤 **Python** | 📅 **2026-11-01**
 
 The definitive list that answers "I want to do X in Python, which tool should I use?"
 
@@ -1382,7 +1382,7 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 
 ### 2. [skills](https://github.com/mattpocock/skills)
 
-⭐ **307,543** | 🔤 **Shell** | 📅 **2026-10-31**
+⭐ **308,483** | 🔤 **Shell** | 📅 **2026-11-01**
 
 Skills for Real Engineers. Straight from my .agents directory.
 
@@ -1390,7 +1390,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 
 ### 3. [skills](https://github.com/anthropics/skills)
 
-⭐ **185,380** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **185,921** | 🔤 **Python** | 📅 **2026-11-01**
 
 Public repository for Agent Skills
 
@@ -1400,7 +1400,7 @@ Public repository for Agent Skills
 
 ### 4. [agency-agents](https://github.com/msitarzewski/agency-agents)
 
-⭐ **165,520** | 🔤 **Shell** | 📅 **2026-10-31**
+⭐ **165,707** | 🔤 **Shell** | 📅 **2026-11-01**
 
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
@@ -1408,7 +1408,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ### 5. [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
-⭐ **143,523** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **143,602** | 🔤 **Python** | 📅 **2026-11-01**
 
 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 
@@ -1428,7 +1428,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ### 7. [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 
-⭐ **97,095** | 🔤 **N/A** | 📅 **2026-10-31**
+⭐ **97,136** | 🔤 **N/A** | 📅 **2026-11-01**
 
 A collection of MCP servers.
 
@@ -1438,7 +1438,7 @@ A collection of MCP servers.
 
 ### 8. [worldmonitor](https://github.com/koala73/worldmonitor)
 
-⭐ **89,811** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **89,867** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 
@@ -1448,7 +1448,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ### 9. [hello-agents](https://github.com/datawhalechina/hello-agents)
 
-⭐ **85,436** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **85,515** | 🔤 **Python** | 📅 **2026-11-01**
 
 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 
@@ -1458,7 +1458,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ### 10. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 
-⭐ **75,747** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **76,107** | 🔤 **Python** | 📅 **2026-11-01**
 
 Learn AI Engineering! Learn it. Build it. Ship it for others.
 
@@ -1478,7 +1478,7 @@ Learn AI Engineering! Learn it. Build it. Ship it for others.
 
 ### 12. [mem0](https://github.com/mem0ai/mem0)
 
-⭐ **68,120** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **68,177** | 🔤 **Python** | 📅 **2026-11-01**
 
 The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 
@@ -1488,7 +1488,7 @@ The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and
 
 ### 13. [voicebox](https://github.com/jamiepine/voicebox)
 
-⭐ **59,080** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **59,160** | 🔤 **Python** | 📅 **2026-11-01**
 
 The open-source AI voice studio. Clone, dictate, create.
 
@@ -1506,7 +1506,7 @@ Make humans and AI agents work as one team — open-source and self-hostable.
 
 ### 15. [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
 
-⭐ **53,455** | 🔤 **N/A** | 📅 **2026-10-31**
+⭐ **53,473** | 🔤 **N/A** | 📅 **2026-11-01**
 
 The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 
@@ -1526,7 +1526,7 @@ GitHub’s official command line tool
 
 ### 17. [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 
-⭐ **41,952** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **42,215** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
@@ -1544,7 +1544,7 @@ Phaser is a fun, free and fast 2D game framework for making HTML5 games for desk
 
 ### 19. [skills](https://github.com/vercel-labs/skills)
 
-⭐ **37,308** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **37,439** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 The open agent skills tool - npx skills
 
@@ -1552,7 +1552,7 @@ The open agent skills tool - npx skills
 
 ### 20. [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
 
-⭐ **37,242** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **37,308** | 🔤 **Python** | 📅 **2026-11-01**
 
 "Vibe-Trading: Your Personal Trading Agent"
 
@@ -1562,7 +1562,7 @@ The open agent skills tool - npx skills
 
 ### 21. [nuwa-skill](https://github.com/alchaincyf/nuwa-skill)
 
-⭐ **36,904** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **36,980** | 🔤 **Python** | 📅 **2026-11-01**
 
 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 
@@ -1570,7 +1570,7 @@ The open agent skills tool - npx skills
 
 ### 22. [WxJava](https://github.com/binarywang/WxJava)
 
-⭐ **33,171** | 🔤 **Java** | 📅 **2026-10-30**
+⭐ **33,173** | 🔤 **Java** | 📅 **2026-10-31**
 
 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
 
@@ -1604,7 +1604,17 @@ Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creat
 
 ---
 
-### 26. [ralph](https://github.com/snarktank/ralph)
+### 26. [anatomy](https://github.com/wheresryan22/anatomy)
+
+⭐ **23,392** | 🔤 **JavaScript** | 📅 **2026-11-01**
+
+An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
+
+**Tags:** `agent-skill` `open-source` `svg` `vizualization`
+
+---
+
+### 27. [ralph](https://github.com/snarktank/ralph)
 
 ⭐ **21,628** | 🔤 **TypeScript** | 📅 **2026-08-27**
 
@@ -1612,9 +1622,9 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 ---
 
-### 27. [pua](https://github.com/tanweai/pua)
+### 28. [pua](https://github.com/tanweai/pua)
 
-⭐ **19,785** | 🔤 **Python** | 📅 **2026-10-30**
+⭐ **19,788** | 🔤 **Python** | 📅 **2026-10-31**
 
 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 
@@ -1622,15 +1632,15 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 ---
 
-### 28. [Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+### 29. [Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
 
-⭐ **18,257** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **18,263** | 🔤 **Python** | 📅 **2026-10-31**
 
 A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
 ---
 
-### 29. [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
+### 30. [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
 
 ⭐ **14,789** | 🔤 **Python** | 📅 **2026-09-08**
 
@@ -1640,47 +1650,47 @@ A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件�
 
 ---
 
-### 30. [skills](https://github.com/huggingface/skills)
+### 31. [skills](https://github.com/huggingface/skills)
 
-⭐ **11,241** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **11,243** | 🔤 **Python** | 📅 **2026-10-31**
 
 Give your agents the power of the Hugging Face ecosystem
 
 ---
 
-### 31. [MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
+### 32. [MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
 
-⭐ **11,009** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **11,078** | 🔤 **Python** | 📅 **2026-11-01**
 
 
 
 ---
 
-### 32. [scroll-world](https://github.com/oso95/scroll-world)
+### 33. [scroll-world](https://github.com/oso95/scroll-world)
 
-⭐ **10,686** | 🔤 **JavaScript** | 📅 **2026-10-31**
+⭐ **10,704** | 🔤 **JavaScript** | 📅 **2026-11-01**
 
 A skill that turn any brand into a scrollable 3D world landing page
 
 ---
 
-### 33. [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
+### 34. [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
 
-⭐ **10,659** | 🔤 **N/A** | 📅 **2026-10-31**
+⭐ **10,666** | 🔤 **N/A** | 📅 **2026-10-31**
 
 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 
 ---
 
-### 34. [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)
+### 35. [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)
 
-⭐ **8,917** | 🔤 **HTML** | 📅 **2026-10-31**
+⭐ **8,922** | 🔤 **HTML** | 📅 **2026-10-31**
 
 HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
 
 ---
 
-### 35. [feynman](https://github.com/companion-inc/feynman)
+### 36. [feynman](https://github.com/companion-inc/feynman)
 
 ⭐ **8,870** | 🔤 **TypeScript** | 📅 **2026-09-06**
 
@@ -1688,25 +1698,25 @@ HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for bu
 
 ---
 
-### 36. [seedance-2.0](https://github.com/Emily2040/seedance-2.0)
+### 37. [seedance-2.0](https://github.com/Emily2040/seedance-2.0)
 
-⭐ **7,997** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **8,002** | 🔤 **Python** | 📅 **2026-11-01**
 
 Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0
 
 ---
 
-### 37. [ljg-skills](https://github.com/lijigang/ljg-skills)
+### 38. [ljg-skills](https://github.com/lijigang/ljg-skills)
 
-⭐ **7,598** | 🔤 **TypeScript** | 📅 **2026-10-31**
+⭐ **7,603** | 🔤 **TypeScript** | 📅 **2026-11-01**
 
 
 
 ---
 
-### 38. [agent-scripts](https://github.com/steipete/agent-scripts)
+### 39. [agent-scripts](https://github.com/steipete/agent-scripts)
 
-⭐ **7,425** | 🔤 **Shell** | 📅 **2026-10-30**
+⭐ **7,429** | 🔤 **Shell** | 📅 **2026-10-31**
 
 Scripts for agents, shared between my repositories.
 
@@ -1714,9 +1724,9 @@ Scripts for agents, shared between my repositories.
 
 ---
 
-### 39. [flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format)
+### 40. [flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format)
 
-⭐ **6,963** | 🔤 **JavaScript** | 📅 **2026-10-31**
+⭐ **6,976** | 🔤 **JavaScript** | 📅 **2026-11-01**
 
 飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳
 
@@ -1724,7 +1734,7 @@ Scripts for agents, shared between my repositories.
 
 ---
 
-### 40. [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning)
+### 41. [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning)
 
 ⭐ **6,328** | 🔤 **Python** | 📅 **2026-09-09**
 
@@ -1738,7 +1748,7 @@ A list of popular github projects related to deep learning
 
 ### 1. [DeepTutor](https://github.com/HKUDS/DeepTutor)
 
-⭐ **51,844** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **52,905** | 🔤 **Python** | 📅 **2026-11-01**
 
 DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
@@ -1748,7 +1758,7 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
 ### 2. [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)
 
-⭐ **35,468** | 🔤 **N/A** | 📅 **2026-10-31**
+⭐ **35,488** | 🔤 **N/A** | 📅 **2026-11-01**
 
 Elevate your AI research writing, no more tedious polishing ✨
 
@@ -1756,7 +1766,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 ### 3. [gpt-researcher](https://github.com/assafelovic/gpt-researcher)
 
-⭐ **30,389** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **30,407** | 🔤 **Python** | 📅 **2026-11-01**
 
 An autonomous agent that conducts deep research on any data using any LLM providers
 
@@ -1766,7 +1776,7 @@ An autonomous agent that conducts deep research on any data using any LLM provid
 
 ### 4. [al-folio](https://github.com/alshedivat/al-folio)
 
-⭐ **16,287** | 🔤 **HTML** | 📅 **2026-10-30**
+⭐ **16,289** | 🔤 **HTML** | 📅 **2026-11-01**
 
 A beautiful, simple, clean, and responsive Jekyll theme for academics
 
@@ -1784,7 +1794,7 @@ The open source AI research agent.
 
 ### 6. [figures4papers](https://github.com/ChenLiu-1996/figures4papers)
 
-⭐ **9,378** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **9,423** | 🔤 **Python** | 📅 **2026-10-31**
 
 My Python scripts to make high-quality figures for publications in top AI conferences and journals.
 
@@ -1794,7 +1804,7 @@ My Python scripts to make high-quality figures for publications in top AI confer
 
 ### 7. [awesome-prompts](https://github.com/ai-boost/awesome-prompts)
 
-⭐ **9,157** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **9,162** | 🔤 **Python** | 📅 **2026-10-31**
 
 Curated prompts, frameworks and papers for LLMs and agents, with an engineering bias. Prompt engineering, context engineering, agent harnesses, red teaming.
 
@@ -1814,7 +1824,7 @@ Autonomous research system for measurable, computer-executable research.
 
 ### 1. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
-⭐ **136,635** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **136,931** | 🔤 **Python** | 📅 **2026-11-01**
 
 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
@@ -1824,7 +1834,7 @@ Autonomous research system for measurable, computer-executable research.
 
 ### 2. [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
 
-⭐ **25,682** | 🔤 **Python** | 📅 **2026-10-31**
+⭐ **25,786** | 🔤 **Python** | 📅 **2026-11-01**
 
 A privacy-first app that strips AI watermarks from content you own.
 
