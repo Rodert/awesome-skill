@@ -1,6 +1,6 @@
 # 훌륭한 AI 에이전트 스킬
 
-> 마지막 업데이트: **2026-11-06** | 전체 스킬: **191**
+> 마지막 업데이트: **2026-11-06** | 전체 스킬: **192**
 
 Codex, Claude Code, Cursor, OpenCode 및 기타 AI 코딩 에이전트를 위한 재사용 가능한 스킬 모음입니다.
 
@@ -1129,6 +1129,16 @@ Design engineering for Claude Code. Craft, memory, and enforcement for consisten
 CC Workflow Studio
 
 **Tags:** `agent-skills` `claude-code` `mcp-tools` `slash-commands` `sub-agents` `vscode-extension` `workflow-automation`
+
+---
+
+### 115. [agent-qa](https://github.com/vostride/agent-qa)
+
+⭐ **856** | 🔤 **TypeScript** | 📅 **2026-11-06**
+
+Four skills for authoring, debugging, result triage and knowledge review in self-improving web/mobile QA with memidex memory, CLI and MCP. FSL-1.1-ALv2; provider costs may apply.
+
+**Tags:** `ai-agents` `ai-testing` `browser-automation` `claude-code` `codex` `developer-tools` `mcp` `mcp-server`
 
 ---
 
