@@ -15,7 +15,7 @@ Awesome Skill discovers and organizes practical skills for [Codex](https://opena
 - [All supported languages](https://rodert.github.io/awesome-skill/)
 
 <!-- SKILLS:START -->
-## Skills (196 total)
+## Skills (197 total)
 
 > Last updated: **2026-11-10**. Browse the [interactive directory](https://rodert.github.io/awesome-skill/en/projects) for filtering and all languages.
 
@@ -141,6 +141,7 @@ Awesome Skill discovers and organizes practical skills for [Codex](https://opena
 118. **[awesome-gis](https://github.com/sshuair/awesome-gis)** - ⭐ 5,473 - 😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, a...
 119. **[interface-design](https://github.com/Dammyjay93/interface-design)** - ⭐ 5,413 - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 120. **[cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio)** - ⭐ 5,345 - CC Workflow Studio
+121. **[agent-qa](https://github.com/vostride/agent-qa)** - ⭐ 856 - Four skills for authoring, debugging, result triage and knowledge review in self-improving web/mobile QA with memidex memory, CLI and MCP. FSL-1.1-ALv2; provider costs may apply.
 
 ### Creative
 
