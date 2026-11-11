@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T03:16:54.291910+00:00",
-  "total": 196,
+  "last_updated": "2026-11-11T11:42:19.696666+00:00",
+  "total": 197,
   "skills": [
     {
       "name": "awesome-python",
@@ -4857,6 +4857,29 @@
       "owner": "breaking-brake",
       "archived": false,
       "has_skill_file": false
+    },
+    {
+      "name": "agent-qa",
+      "full_name": "vostride/agent-qa",
+      "description": "Four skills for authoring, debugging, result triage and knowledge review in self-improving web/mobile QA with memidex memory, CLI and MCP. FSL-1.1-ALv2; provider costs may apply.",
+      "url": "https://github.com/vostride/agent-qa",
+      "stars": 856,
+      "language": "TypeScript",
+      "updated_at": "2026-11-06T18:31:28Z",
+      "topics": [
+        "ai-agents",
+        "ai-testing",
+        "browser-automation",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "mcp",
+        "mcp-server"
+      ],
+      "category": "coding",
+      "owner": "vostride",
+      "archived": false,
+      "has_skill_file": true
     }
   ]
 }
