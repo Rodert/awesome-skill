@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-16T03:20:14.109041+00:00",
-  "total": 200,
+  "last_updated": "2026-11-16T05:50:00.000000+00:00",
+  "total": 201,
   "skills": [
     {
       "name": "awesome-python",
@@ -4954,6 +4954,29 @@
       "owner": "breaking-brake",
       "archived": false,
       "has_skill_file": false
+    },
+    {
+      "name": "Huffl-skill",
+      "full_name": "OddballInnovator/Huffl-skill",
+      "description": "Shared memory for your agents. Read and write capsules in Huffl so your agents share context across vendors and sessions.",
+      "url": "https://github.com/OddballInnovator/Huffl-skill",
+      "stars": 0,
+      "language": "Markdown",
+      "updated_at": "2026-11-16T05:50:00Z",
+      "topics": [
+        "agent-skills",
+        "mcp",
+        "claude",
+        "claude-code",
+        "cursor",
+        "copilot",
+        "grok",
+        "memory"
+      ],
+      "category": "other",
+      "owner": "OddballInnovator",
+      "archived": false,
+      "has_skill_file": true
     }
   ]
 }
